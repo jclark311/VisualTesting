@@ -1,0 +1,24 @@
+{
+  "name": "VisualTesting",
+  "version": "1.0.0",
+  "description": "Automated Visual Testing with Selenium Webdriver's Node.js bindings, Applitools, and Appium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclark311/VisualTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jclark311/VisualTesting/issues"
+  },
+  "homepage": "https://github.com/jclark311/VisualTesting#readme",
+  "dependencies": {
+    "eyes.selenium": "0.0.57",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
